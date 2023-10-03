@@ -1,0 +1,399 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.container{
+    background-image: url(yaziarxaplan.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    left: 100px;
+    width: 1242px;
+    height: 700px;
+}
+
+.clorem{
+    text-align: center;
+
+}
+
+.blue{
+    background-color: blue;
+    position: relative;
+    top: -100px;
+    left: -110px;
+    width: 103px;
+    height: 707px;
+}
+
+.header {
+    position: relative;
+    top: 0;
+    right: 40px;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.navbar a{
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 40px;;
+}
+
+.headarimg{
+   position: relative; 
+   top: 0;
+   left: 140px;
+   text-decoration: none;
+   background: none;
+}
+
+.login{
+    border: 10px solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: #fff;
+    border-width: 10px 30px;
+    color: #000;
+}
+
+.login:hover{
+    color: #fff;
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
+
+.sign{
+    color: #fff;
+}
+
+.h1{
+    text-align: center;
+    color: #fff;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 65px;
+    position: relative;
+    top: -550px;
+}
+
+p{
+    color: #fff;
+    position: relative;
+    top: -510px;
+    margin: 0 auto;
+  
+}
+
+.read{
+    text-align: center;
+    position: relative;
+    top: -400px;
+    left: 550px;
+    border: 10px solid;
+    border-color: white;
+    background-color: #fff;
+    border-width: 15px 35px 15px 35px;
+    text-decoration: none;
+    color: #000;
+}
+
+.read:hover{
+    color: #000;
+    background-color: aqua;
+    border-color: aqua;
+}
+
+.qirmizi{
+    position: relative;
+    left: 120px;
+    top: 100px;
+    width: 550px;
+    height: 420px;
+    
+}
+
+.container2{
+    background-color: #eceaea;
+    margin: 0 auto;
+    height: 650px;
+}
+
+.about{
+    position: relative;
+    margin-left: 1000px;
+    top: -870px;
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lorem2{
+    color: #000;
+    text-align: center;
+    position: relative;
+    margin-left: 595px;
+    top: -850px;
+}
+
+.read2{
+    position: relative;
+    top: -790px;
+    margin-left: 1050px;
+    border: 10px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color: #000;
+    border-width: 15px 35px 15px 35px;
+    text-decoration: none;
+    color: white;
+}
+
+.read2:hover{
+    color: #fff;
+    background-color: darkturquoise;
+    border-color: darkturquoise;
+}
+
+.oneh1{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
+
+.sifir1{
+    position: relative;
+    top: 90px;
+    margin-right: 750px;
+    font-size: 60px;
+}
+
+
+.front{
+    position: relative;
+    right: 130px;
+    top: -10px;
+}
+
+.sifir2{
+    position: relative;
+    top: 125px;
+    margin-right: 750px;
+    font-size: 60px;
+}
+
+.front2{
+    position: relative;
+    right: 90px;
+    top: 30px;
+}
+
+.sifir3{
+    position: relative;
+    top: 180px;
+    margin-right: 750px;
+    font-size: 60px;
+}
+
+.front3{
+    position: relative;
+    right: 90px;
+    top: 80px;
+}
+
+.hr1{
+    position: absolute;
+    top: 400px;
+}
+
+.loremm{
+    position: absolute;
+    top: 570px;
+    color: #000;
+    text-align: center;
+}
+
+.saqqalli{
+    border: 5px solid blue ;
+    padding: 210px 420px;
+    position: relative;
+    top: 10px;
+    margin-top: -160px;
+    margin-left: 180px;
+    background-color: blue;
+}
+
+.john{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top: -150px;
+    margin-left: 50px;
+}
+
+.adiser{
+    text-align: center;
+    position: relative;
+    top: -150px;
+    margin-left: 50px;
+}
+
+.our{
+    position: relative;
+    top: -290px;
+    font-size: 43px;
+}
+
+.florem{
+    color: black;
+    position: relative;
+    top: 10px;
+    text-align: justify;
+    margin-left: 370px;
+    font-size: 18px;
+}
+
+.florem2{
+    color: black;
+    position: relative;
+    top: 50px;
+    text-align: justify;
+    margin-left: 370px;
+    font-size: 18px;
+}
+
+.florem3{
+    color: black;
+    position: relative;
+    top: 110px;
+    text-align: justify;
+    margin-left: 370px;
+    font-size: 18px;
+}
+
+.ourlorem{
+    color: #000;
+    position: relative;
+    top: -250px;
+    text-align: center;
+}
+
+.ourlorem2{
+    position: relative;
+    top: -150px;
+    text-align: center; 
+}
+
+.fname{
+    border: 1px solid #333;
+    border: none;
+    border-bottom: 1px solid #333;
+    display: block;    
+    font-size: 25px;
+    position: relative;
+    top: 100px;
+    margin-left: 190px;
+}
+
+.ename{
+    border: 1px solid #333;
+    border: none;
+    border-bottom: 1px solid #333;
+    display: block;    
+    font-size: 25px;
+    position: relative;
+    top: 150px;
+    margin-left: 190px;
+}
+
+.tname{
+    border: 1px solid #333;
+    border: none;
+    border-bottom: 1px solid #333;
+    display: block;    
+    font-size: 25px;
+    position: relative;
+    top: 200px;
+    margin-left: 190px;
+}
+
+.mname{
+    border: 1px solid #333;
+    border: none;
+    border-bottom: 1px solid #333;
+    display: block;    
+    font-size: 25px;
+    position: relative;
+    top: 250px;
+    margin-left: 190px;
+}
+
+.send{
+    border: 10px solid;
+    border-radius: 25px;
+    border-color: black;
+    background-color: #000;
+    border-width: 15px 35px 15px 35px;
+    position: relative;
+    top: 300px;
+    margin-left: 190px;
+    text-decoration: none;
+    color: #fff;
+    border-width: 15px 53px 15px 53px;
+}
+
+.news{
+    position: relative;
+    top: 250px;
+    margin-left: 700px;
+}
+
+.newsname{
+    position: relative;
+    top: 255px;
+    margin-left: 700px;
+    border: 10px solid;
+    color: #fff;
+    border-color: black;
+    background-color: #000;
+    border-width: 15px 35px 15px 35px;
+    position: relative;
+    text-decoration: none;
+    border-width: 15px 53px 15px 53px;
+}
+
+.subcribe{
+    position: relative;
+    top: 224px;
+    margin-left: 975px;
+    border: 10px solid;
+    color: #fff;
+    border-color: blue;
+    background-color: blue;
+    border-width: 15px 35px 15px 35px;
+    position: relative;
+    text-decoration: none;
+    border-width: 14px 53px 14px 53px;
+}
+
+.contacth1{
+    position: relative;
+    top: 60px;
+    margin-left: 190px;
+}
+
+.contact{
+    background-image: url(d);
+}
